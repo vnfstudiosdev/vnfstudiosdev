@@ -4,11 +4,6 @@
 
 <h1 align="center">🚀 VNF Studios Dev</h1>
 <p align="center">
-  <b>Full Stack Developer | Bot Creator | MC Server Enthusiast</b><br>
-  <i>“Code tối ưu – Giao diện mượt – Hệ thống xịn”</i>
-</p>
-
-<p align="center">
   <a href="https://discord.gg/yourserver" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -19,16 +14,6 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
----
-
-## 🧑‍💻 Về tôi
-
-- 🔭 Tôi đang phát triển các **bot Discord** và hệ thống **ticket + moderation** cho cộng đồng.
-- 🌱 Hiện tại tìm hiểu sâu về **Node.js**, **Docker** và **Linux server**.
-- 👯 Muốn hợp tác về **open source** liên quan đến Discord API, Minecraft plugin.
-- 💬 Hỏi tôi bất cứ điều gì về **Python, JS, hosting bot, webhook**.
-- ⚡ Sự thật thú vị: Tôi từng code bot nhạc chạy 24/7 trên VPS chỉ với 2GB RAM 😎
 
 ---
 
@@ -66,19 +51,6 @@
 | Thiết kế | Figma (UI/UX cơ bản) |
 
 </details>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=vnfstudiosdev&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=vnfstudiosdev&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnfstudiosdev&layout=compact&theme=radical&hide_border=true" alt="Top Langs">
-</p>
 
 ---
 
