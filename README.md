@@ -15,10 +15,6 @@
   </a>
 </p>
 
----
-
-## 🛠️ Kỹ năng (Skills)
-
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
@@ -52,14 +48,3 @@
 
 </details>
 
----
-
-## 📫 Liên hệ
-
-- 🌐 **Website**: `https:/vnf.page.gd`
-- 🐦 **Discord**: `vnfstudiosdev` (hoặc qua server Support)
-- 📧 **Email**: `vnfgof.twch@gmail.com` 
-
-<p align="center">
-  <i>✨ “Biến ý tưởng thành code, biết code thành sản phẩm” ✨</i>
-</p>
