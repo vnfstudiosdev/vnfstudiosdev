@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://cdn.discordapp.com/attachments/1507367174392778814/1513889684730941772/468ff398-b185-4bca-81f5-87aa7fac7c3f.png?ex=6a295f23&is=6a280da3&hm=752283244d84c304515224341e7e2512c391a750782a3bb69943c1029a2a4f1d&
+![](https://cdn.discordapp.com/attachments/1507367174392778814/1513889684730941772/468ff398-b185-4bca-81f5-87aa7fac7c3f.png?ex=6a295f23&is=6a280da3&hm=752283244d84c304515224341e7e2512c391a750782a3bb69943c1029a2a4f1d&)
 <!--
 **vnfstudiosdev/vnfstudiosdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
