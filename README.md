@@ -2,49 +2,23 @@
   <img src="https://cdn.discordapp.com/attachments/1507367174392778814/1513889684730941772/468ff398-b185-4bca-81f5-87aa7fac7c3f.png?ex=6a295f23&is=6a280da3&hm=752283244d84c304515224341e7e2512c391a750782a3bb69943c1029a2a4f1d&" alt="VNF Studios Banner" width="100%">
 </p>
 
-<h1 align="center">🚀 VNF Studios Dev</h1>
-<p align="center">
-  <a href="https://discord.gg/yourserver" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://github.com/vnfstudiosdev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hello+World!+%F0%9F%91%8B;We+are+VNF+Studios+Dev+%F0%9F%9A%80;Code+%7C+Create+%7C+Innovate+%F0%9F%92%A1;Welcome+to+our+GitHub!" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=tor-browser&logoColor=white" alt="Tor">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://komarev.com/ghpvc/?username=vnfstudiosdev&label=Profile%20views&color=61DAFB&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/vnfstudiosdev?label=Followers&style=for-the-badge&color=5865F2&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Status-Building%20the%20future-3DDC84?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
 </p>
 
-<details>
-  <summary><b>📌 Bảng chi tiết lĩnh vực</b></summary>
-  
-| Lĩnh vực | Công nghệ |
-|----------|------------|
-| Web Dev | HTML, CSS, JS, Node.js, React |
-| Backend | Python (Flask, discord.py), Node.js (Express) |
-| Hệ thống & DevOps | Docker, Linux, Git, Tor |
-| Mobile | Android (Java/Kotlin), Swift (iOS) |
-| Database | SQL (PostgreSQL, SQLite) |
-| Thiết kế | Figma (UI/UX cơ bản) |
+<br/>
 
-</details>
+## 🌟 Về chúng tôi
 
+```yaml
+🏢 Tên:        VNF Studios Dev
+💻 Lĩnh vực:   Web • Backend • Mobile • DevOps • Design
+🌍 Ngôn ngữ:   Python • JavaScript • C++ • Swift • Kotlin
+🎯 Sứ mệnh:    Biến ý tưởng thành sản phẩm chất lượng cao
+⚡ Đam mê:     Open-source, an toàn, và sáng tạo không giới hạn
